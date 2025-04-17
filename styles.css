@@ -16,11 +16,11 @@ p {
 }
 a {
     color: #5a68a9;
-    transition: 0.2s;
+    transition: 0.3s;
 }
 a:hover {
     color: #7a7af3;
-    transition: 0.2s;
+    transition: 0.3s;
 }
 
 .section {
